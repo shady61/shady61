@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @shady61
-- 👀 I’m interested in pixel art
-- 🌱 I’m currently learning pixel art
-- 💞️ I’m looking to collaborate on pixel art
-- 📫 I'll reach you if i need
